@@ -127,10 +127,6 @@ chainLists [] = []
 chainLists (x:xs) = x ++ chainLists xs 
 
 
-
-
-
-
 soloPares :: [Int] -> [Int]
 
 soloPares [] = []
