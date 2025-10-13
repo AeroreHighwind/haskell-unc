@@ -1,3 +1,4 @@
+-- Induction in paper
 {-# LANGUAGE NPlusKPatterns #-}
 
 data Color = Rojo | Naranja | Amarillo | Verde | Azul | Violeta
